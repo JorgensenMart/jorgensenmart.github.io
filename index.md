@@ -2,7 +2,9 @@
 layout: default
 published: true
 ---
-![Me](me.png)
+<p align="center">
+  <img src="https://github.com/JorgensenMart/webpage/blob/gh-pages/me.png?raw=true"/>
+</p>
 
 ***
 

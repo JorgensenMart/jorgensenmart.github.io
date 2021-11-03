@@ -2,10 +2,6 @@
 layout: default
 published: true
 ---
----
-layout: default
----
-
 ![Me](me.png)
 
 ***

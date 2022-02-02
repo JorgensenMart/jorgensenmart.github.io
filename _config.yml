@@ -1,5 +1,11 @@
 title: Martin Jørgensen
-description: Machine Learning Researcher
+page.title: Machine Learning Researcher
+description: Personal webpage for, researcher at Oxford University, Martin Jorgensen. 
+url: jorgensenmart.github.io
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-seo-tag
+
+twitter:
+  username: JorgensenMart
+  card: summary

@@ -1,6 +1,6 @@
 title: Martin Jørgensen
-tagline: Machine Learning Researcher
-description: Machine Learning Postdoctoral Researcher at University of Oxford 
+site.tagline: Machine Learning Researcher at University of Oxford
+description: Machine Learning Researcher
 url: jorgensenmart.github.io
 theme: jekyll-theme-tactile
 plugins:

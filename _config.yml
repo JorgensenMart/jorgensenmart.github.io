@@ -5,6 +5,7 @@ url: jorgensenmart.github.io
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 twitter:
   username: JorgensenMart

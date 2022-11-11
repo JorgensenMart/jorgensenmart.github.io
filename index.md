@@ -20,13 +20,13 @@ Gaussian Processes, Scalable Bayesian Inference, Differential Geometry for Repre
 
 ## Selected Publications
 
-[Bézier Gaussian Processes for Tall and Wide Data](https://arxiv.org/pdf/2209.00343.pdf) NeurIPS 2022
+[Bézier Gaussian Processes for Tall and Wide Data](https://arxiv.org/pdf/2209.00343.pdf), NeurIPS 2022\
 with M. Osborne
 
-[Isometric Gaussian Process Latent Variable Model for Dissimilarity Data](http://proceedings.mlr.press/v139/jorgensen21a/jorgensen21a.pdf) ICML 2021
+[Isometric Gaussian Process Latent Variable Model for Dissimilarity Data](http://proceedings.mlr.press/v139/jorgensen21a/jorgensen21a.pdf), ICML 2021\
 with S. Hauberg
 
-[Stochastic Differential Equations with Variational Wishart Diffusions](http://proceedings.mlr.press/v119/jorgensen20a/jorgensen20a.pdf) ICML 2020
+[Stochastic Differential Equations with Variational Wishart Diffusions](http://proceedings.mlr.press/v119/jorgensen20a/jorgensen20a.pdf), ICML 2020\
 with M. Deisenroth and H. Salimbeni
 
 For all publications please visit [Google Scholar](https://scholar.google.com/citations?user=Ncr-rA0AAAAJ&hl=da).

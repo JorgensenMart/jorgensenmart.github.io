@@ -10,13 +10,15 @@ published: true
 
 ## About me
 
-I am a postdoctoral researcher at the University of Oxford and a Junior Research Fellow at Linacre College. Since April 2021 I have worked with [Michael Osborne](https://www.robots.ox.ac.uk/~mosb/)'s Bayesian Exploration Lab. Before that I was a PhD student under [Søren Hauberg](http://www2.compute.dtu.dk/~sohau/) at the Technical University of Denmark. My thesis is available [here](https://jorgensenmart.github.io/PhDThesis.pdf).
+I am a postdoctoral researcher at the University of Helsinki working on sample-effiencient Bayesian inference with [Luigi Acerbi](https://lacerbi.github.io).
+
+Prior to that, I was a postdoc at the University of Oxford and a Junior Research Fellow at Linacre College. There I worked with [Michael Osborne](https://www.robots.ox.ac.uk/~mosb/)'s Bayesian Exploration Lab. I obtained my PhD degree under [Søren Hauberg](http://www2.compute.dtu.dk/~sohau/)'s supervision at the Technical University of Denmark. My thesis is available [here](https://jorgensenmart.github.io/PhDThesis.pdf).
 
 For all publications please visit my [Google Scholar](https://scholar.google.com/citations?user=Ncr-rA0AAAAJ&hl=da) and for short news you can follow me on [Twitter](https://twitter.com/JorgensenMart).
 
 ## Research Interests
 
-Gaussian Processes, Scalable Bayesian Inference, Differential Geometry for Representation Learning, Bayesian Quadrature and Optimisation, Sample-efficienct methods, Probabilistic Numerics
+Gaussian Processes, Scalable Bayesian Inference, Bayesian Quadrature and Optimisation, Sample-efficienct methods, Probabilistic Numerics
 
 ## Selected Publications
 
@@ -32,4 +34,4 @@ with M. Deisenroth and H. Salimbeni
 For all publications please visit [Google Scholar](https://scholar.google.com/citations?user=Ncr-rA0AAAAJ&hl=da).
 
 ## Contact
-martinj 'at' robots.ox.ac.uk
+martin.jorgensen 'at' helsinki.fi
